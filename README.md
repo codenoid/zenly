@@ -1,5 +1,5 @@
 # zenly
-My Server Side and Portable NVR, Powered by gphoto2
+Server Side and Portable NVR, Powered by gphoto2
 
 ## WIP
 
@@ -11,5 +11,5 @@ To Do:
 - [ ] Image & Video Processing
 - [ ] Face Recog on Video Processing
 - [ ] Full Server Side mode (HTTP Server)
-
+- [ ] Implementation in Intel NUC or RasPI
 
