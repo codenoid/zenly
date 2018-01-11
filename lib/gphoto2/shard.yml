@@ -1,0 +1,13 @@
+name: gphoto2
+version: 0.7.2
+
+authors:
+  - Sijawusz Pur Rahnama <sija@sija.pl>
+
+crystal: 0.23.0
+
+libraries:
+  libgphoto2: ~> 2.5.2
+  libgphoto2_port: ~> 0.10.1
+
+license: MIT

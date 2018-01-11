@@ -1,0 +1,9 @@
+sudo: required
+dist: trusty
+language: crystal
+addons:
+  apt:
+    packages:
+      - libgphoto2-6
+      - libgphoto2-dev
+      - libgphoto2-port10

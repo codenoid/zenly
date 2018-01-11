@@ -1,0 +1,8 @@
+name: zenly
+version: 0.1.0
+
+dependencies:
+  gphoto2:
+    github: Sija/gphoto2.cr
+
+license: MIT
